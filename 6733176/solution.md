@@ -6,19 +6,19 @@ below is sample code:
 
 * classes
 <br/>
-    ![classes](classes.png)
+    ![classes](pics/classes.png)
 * driver class
 <br/>
-    ![driver](driver.png)
+    ![driver](pics/driver.png)
 * Control class
 <br/>
-    ![control](control.png)
+    ![control](pics/control.png)
 * Smoker class
 <br/>
-    ![smoker](smoker.png)
+    ![smoker](pics/smoker.png)
 * output
 <br/>
-    ![output](result.png)
+    ![output](pics/result.png)
     * note: you can set max loop count (Control.maxCount) to avoid infinite looping.
     
     
